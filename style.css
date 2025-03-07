@@ -56,7 +56,7 @@ body {
 
 /* INICIO */
 .inicio {
-    background: url(Serenity.jpeg) no-repeat center top/cover;
+    background: url(img/Serenity.jpeg) no-repeat center top/cover;
     color: white;
     text-align: center;
     min-height: 100vh;
@@ -103,7 +103,7 @@ h3 {
 
 /* SOBRE */
 .sobre {
-    background: url(passeio.jpg) no-repeat center top/cover;
+    background: url(img/passeio.jpg) no-repeat center top/cover;
     color: white;
     padding-top: 4em;
     min-height: 100vh;
@@ -185,24 +185,24 @@ h2 {
 }
 
 #passeios {
-    background: url(medium-shot-woman-with-chihuahua-dog.jpg) no-repeat center 10%/cover;
+    background: url(img/medium-shot-woman-with-chihuahua-dog.jpg) no-repeat center 10%/cover;
 }
 #alimentacao {
-    background: url(German.jpeg) no-repeat center top/cover;
+    background: url(img/German.jpeg) no-repeat center top/cover;
 }
 
 #hospedagem {
-    background: url(catdog.jpeg) no-repeat center top/cover;
+    background: url(img/catdog.jpeg) no-repeat center top/cover;
 }
 
 #cuidados {
-    background: url(PamperedDog.jpeg) no-repeat center top/cover;
+    background: url(img/PamperedDog.jpeg) no-repeat center top/cover;
 }
 
 /* DIFERENCIAIS */
 
 .nossos-diferenciais {    
-    background: url(full.jpg) no-repeat center 10%/cover;
+    background: url(img/full.jpg) no-repeat center 10%/cover;
     text-align: center;
     padding-top: 6%;
     padding-bottom: 8em;    
@@ -261,7 +261,7 @@ h2 {
 /* Formulários */
 
 .contato {
-    background: url(CuriousCat.jpeg) no-repeat center 60%/cover;
+    background: url(img/CuriousCat.jpeg) no-repeat center 60%/cover;
     text-align: center;
     padding-top: 6%;
     min-height: 80vh;
