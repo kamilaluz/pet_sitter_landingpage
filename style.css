@@ -56,7 +56,7 @@ body {
 
 /* INICIO */
 .inicio {
-    background: url(img/Serenity.jpeg) no-repeat center top/cover;
+    background: url(img/Inicio.jpeg) no-repeat center top/cover;
     color: white;
     text-align: center;
     min-height: 100vh;
@@ -103,7 +103,7 @@ h3 {
 
 /* SOBRE */
 .sobre {
-    background: url(img/passeio.jpg) no-repeat center top/cover;
+    background: url(img/sobre_nos.jpg) no-repeat center top/cover;
     color: white;
     padding-top: 4em;
     min-height: 100vh;
@@ -185,24 +185,24 @@ h2 {
 }
 
 #passeios {
-    background: url(img/medium-shot-woman-with-chihuahua-dog.jpg) no-repeat center 10%/cover;
+    background: url(img/servicos_passeios.jpg) no-repeat center 10%/cover;
 }
 #alimentacao {
-    background: url(img/German.jpeg) no-repeat center top/cover;
+    background: url(img/servicos_alimentacao.jpeg) no-repeat center top/cover;
 }
 
 #hospedagem {
-    background: url(img/catdog.jpeg) no-repeat center top/cover;
+    background: url(img/servicos_hospedagem.jpeg) no-repeat center top/cover;
 }
 
 #cuidados {
-    background: url(img/PamperedDog.jpeg) no-repeat center top/cover;
+    background: url(img/servicos_cuidados_especiais.jpeg) no-repeat center top/cover;
 }
 
 /* DIFERENCIAIS */
 
 .nossos-diferenciais {    
-    background: url(img/full.jpg) no-repeat center 10%/cover;
+    background: url(img/diferenciais.jpg) no-repeat center 10%/cover;
     text-align: center;
     padding-top: 6%;
     padding-bottom: 8em;    
@@ -261,7 +261,7 @@ h2 {
 /* Formulários */
 
 .contato {
-    background: url(img/CuriousCat.jpeg) no-repeat center 60%/cover;
+    background: url(img/Contato.jpeg) no-repeat center 60%/cover;
     text-align: center;
     padding-top: 6%;
     min-height: 80vh;
